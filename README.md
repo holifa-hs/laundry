@@ -1,7 +1,6 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
-main ()
+int main ()
 {
      int paket, jumlah ;
      cout << " ***********************/n";
@@ -63,5 +62,5 @@ main ()
      cout<<" ______________________________________________________\n";
      cout<<" \n";
      cout << " TERIMAKASIH KAMI TUNGGU KEDATANGANNYA ANDA BERIKUTNYA ";
-     getch ();
+     
 }
